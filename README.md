@@ -1,3 +1,3 @@
 # OO2_Framework
 
-Probar proyecto con frameworkV1 ó frameworkv2 + lanterna
+Probar proyecto con framework-v1.0 ó framework-v2.0 + lanterna-3.0.0
